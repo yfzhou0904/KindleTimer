@@ -28,6 +28,8 @@
 
 .start-button {
   outline: none;
+  font-size: larger;
+  font-weight: 900;
 }
 
 .timer .start-button {
